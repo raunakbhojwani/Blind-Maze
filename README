@@ -1,0 +1,6 @@
+
+# Mazeworld in Java
+### Implemented by Raunak Bhojwani
+#### September 2016
+
+A program that uses artificial intelligence to guide a blind robot through a maze. Please use the driver files to test the code. Namely, BlindPacmanDriver.java and MultiRobotCoordinationDriver.java.
